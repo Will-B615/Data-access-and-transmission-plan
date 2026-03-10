@@ -58,4 +58,3 @@ Design a practical, defense-in-depth plan that ensures secure data access and tr
 
 ## Executive Summary
 This plan secures a rapidly growing, hybrid organization by combining strong identity controls, pervasive encryption, and layered network defenses with robust endpoint and mobile management. Centralized storage, backups, and cloud protections safeguard critical data, while continuous monitoring and a defined incident response process improve resilience against real-world attacks. Security awareness and a culture of shared responsibility ensure that users, IT, and leadership all contribute to protecting customer PII, financial records, and intellectual property across on-premises, cloud, and remote environments.
-```
