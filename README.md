@@ -1,6 +1,3 @@
-# Data-access-and-transmission-plan
-
-```markdown
 # Secure Data Access and Transmission Plan
 
 ## Scenario
