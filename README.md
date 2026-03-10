@@ -49,7 +49,7 @@ Design a practical, defense-in-depth plan that ensures secure data access and tr
 - Developed an incident response playbook covering preparation, detection, containment, eradication, recovery, and post-incident review.  
 - Performed recurring audits of open ports, access rights, configuration baselines, and backup/DR tests to ensure ongoing effectiveness.
 
-## Outcome (If Applicable)
+## Outcome
 - Reduced attack surface by eliminating unnecessary open ports and hardening remote access paths.  
 - Increased resistance to credential theft and account takeover via strong passwords, MFA, and tighter RBAC.  
 - Improved protection of data in transit and at rest, lowering the likelihood and impact of interception, device theft, or ransomware.  
